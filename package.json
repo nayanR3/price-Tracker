@@ -1,0 +1,25 @@
+{
+  "name": "pepcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nayanR3/pepCode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nayanR3/pepCode/issues"
+  },
+  "homepage": "https://github.com/nayanR3/pepCode#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "excel4node": "^1.7.2",
+    "jsdom": "^19.0.0",
+    "minimist": "^1.2.5"
+  }
+}
